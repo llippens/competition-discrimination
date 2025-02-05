@@ -5,4 +5,4 @@ Please refer to the [project on the OSF](https://osf.io/mgc4y) for more details 
 
 # Cite
 When using or referring to the materials presented here, please cite as:
-```Lippens, L., & Baert, S. (2025). A meta-reanalysis of correspondence experiments on hiring discrimination. Retrieved from https://osf.io/mgc4y```
+``` Lippens, L., & Baert, S. (2025). A meta-reanalysis of correspondence experiments on hiring discrimination. Retrieved from https://osf.io/mgc4y ```
